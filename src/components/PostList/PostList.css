@@ -1,0 +1,19 @@
+
+.post-style{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    
+}
+.post-content{
+    width: 35%;
+    background-color: blue;
+
+}
+.post-items{
+    width: 35%;
+    background-color: red;
+}
+.forms{
+    width: 30%;
+}
